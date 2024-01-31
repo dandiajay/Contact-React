@@ -1,0 +1,85 @@
+{
+  "contact": [
+    {
+      "fname": "ajay",
+      "lname": "kumar",
+      "email": "aj@gmail.com",
+      "state": "Telangana",
+      "phone": "8855552",
+      "zipcode": "500061",
+      "id": 2
+    },
+    {
+      "fname": "ram",
+      "lname": "krishna",
+      "phone": "5124512554",
+      "email": "ram@gmail.com",
+      "state": "Telangana",
+      "zipcode": "4512",
+      "id": 5
+    },
+    {
+      "fname": "ramesh",
+      "lname": "kumar",
+      "phone": "454545",
+      "email": "ramesh@gmail.com",
+      "state": "Andhra Pradesh",
+      "zipcode": "58455445",
+      "id": 8
+    },
+    {
+      "fname": "bhanu",
+      "lname": "prakash",
+      "phone": "65847555",
+      "email": "bhanu@gmail.com",
+      "state": "Telangana",
+      "zipcode": "500064",
+      "id": 9
+    },
+    {
+      "fname": "rohit",
+      "lname": "meda",
+      "phone": "96646",
+      "email": "rohit@gmail.com",
+      "state": "Telangana",
+      "zipcode": "845",
+      "id": 10
+    },
+    {
+      "fname": "sai",
+      "lname": "kiran",
+      "phone": "845465534",
+      "email": "sai@gmail.com",
+      "state": "Andhra Pradesh",
+      "zipcode": "60025",
+      "id": 11
+    },
+    {
+      "fname": "sai",
+      "lname": "surya",
+      "phone": "740454580",
+      "email": "surya@gmail.com",
+      "state": "Andhra Pradesh",
+      "zipcode": "59655",
+      "id": 12
+    },
+    {
+      "fname": "sai",
+      "lname": "kiran",
+      "phone": "47546063",
+      "email": "sai@gmail.com",
+      "state": "Telangana",
+      "zipcode": "8556",
+      "id": 13
+    },
+    {
+      "fname": "pooja",
+      "lname": "anil",
+      "email": "pooja@gmail.com",
+      "state": "Telangana",
+      "phone": "55755522",
+      "zipcode": "50008",
+      "id": 14
+    }
+  ]
+}
